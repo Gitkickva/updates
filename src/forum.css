@@ -1,3 +1,16 @@
 h1 {
 font-family: "monaco" , mono, monospace;
 }
+h2 {
+font-family: "monaco" , mono, monospace;
+}
+h3 {
+font-family: "monaco" , mono, monospace;
+}
+p {
+font-family: "monaco" , mono, monospace;
+}
+
+body {
+background-color: midnightblue;
+}
