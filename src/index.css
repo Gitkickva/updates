@@ -6,3 +6,9 @@ font-family: "Lucida Console", "Courier New", monospace;
 h2 {
 font-family: "Lucida Console", "Courier New", monospace;
 }
+.box {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
